@@ -1,0 +1,41 @@
+ISAA Autism Screening Questionnaire
+1. Does the child respond to his/her name when called?
+2. Does the child maintain eye contact when interacting with others?
+3. Does the child smile back when you smile at him/her?
+4. Does the child enjoy being cuddled or touched?
+5. Does the child show interest in other children?
+6. Does the child make eye contact with people around him/her?
+7. Does the child exhibit unusual responses to sounds (e.g., ignoring, covering ears)?
+8. Does the child point or gesture to indicate interest?
+9. Does the child bring objects to show to others?
+10. Does the child respond to simple verbal requests (e.g., 'come here')?
+11. Does the child imitate other people's actions (e.g., clapping, waving)?
+12. Does the child use gestures meaningfully (e.g., nodding for yes)?
+13. Does the child look in the direction of sounds or pointing?
+14. Does the child show facial expressions that match the context (e.g., happy, sad)?
+15. Does the child engage in pretend play (e.g., feeding a doll)?
+16. Does the child show repetitive movements (e.g., hand flapping, rocking)?
+17. Does the child line up objects or toys excessively?
+18. Does the child show sensitivity to certain textures, lights, or smells?
+19. Does the child insist on following specific routines or rituals?
+20. Does the child react unusually to pain or temperature (e.g., doesn't cry when hurt)?
+21. Does the child speak clearly and meaningfully for his/her age?
+22. Does the child echo words or phrases repeatedly (echolalia)?
+23. Does the child use language to communicate needs and feelings?
+24. Does the child respond when spoken to?
+25. Does the child initiate conversation?
+26. Does the child repeat questions instead of answering them?
+27. Does the child ask questions to gather information?
+28. Does the child use appropriate pronouns (e.g., 'I', 'you')?
+29. Does the child show understanding of what is said to him/her?
+30. Does the child follow two-step instructions (e.g., 'pick the toy and give it to me')?
+31. Does the child display aggressive behaviors (e.g., hitting, biting)?
+32. Does the child have temper tantrums frequently?
+33. Does the child show inappropriate attachment to objects?
+34. Does the child show signs of hyperactivity or inattention?
+35. Does the child harm him/herself (e.g., head banging, biting)?
+36. Does the child show poor motor coordination (e.g., tripping, clumsy)?
+37. Does the child stare at lights, spinning objects, or hands?
+38. Does the child walk on toes frequently?
+39. Does the child have unusual fears or lack of fear?
+40. Does the child avoid or resist being hugged or held?

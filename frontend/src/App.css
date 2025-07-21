@@ -1,0 +1,65 @@
+.App {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 12px;
+  background: #f5f5f5;
+  box-shadow: 0 0 12px rgba(0,0,0,0.1);
+}
+
+h1 {
+  .scale-guide {
+  background-color: #fff;
+  border-left: 4px solid #4a90e2;
+  padding: 8px 16px;
+  margin: 16px auto;
+  max-width: 500px;
+  border-radius: 6px;
+  font-size: 14px; /* 🔽 Smaller text */
+  line-height: 1.5;
+}
+.scale-guide h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.scale-guide ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+}
+{
+  color: #4a90e2;
+}
+
+.buttons {
+  margin: 20px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  background-color: #4a90e2;
+  color: white;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #f9f9f9;
+}
+
+
+
+.explanation {
+  margin-top: 20px;
+  text-align: left;
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 4px solid #4a90e2;
+}
