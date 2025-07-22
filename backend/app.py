@@ -61,14 +61,16 @@ def handle_answer():
     i = session["index"]
     if i >= len(questions):
         total = session["score"]
-        if total >= 70:
-            result = "Severe Autism"
-        elif total >= 50:
-            result = "Moderate Autism"
-        elif total >= 36:
-            result = "Mild Autism"
+        if total <= 70:
+         result = "No Autism"
+        elif total <= 106:
+         result = "Mild Autism"
+        elif total <= 153:
+         result = "Moderate Autism"
         else:
-            result = "No Autism"
+         result = "Severe Autism"
+
+
 
         return jsonify({
             "done": True,
