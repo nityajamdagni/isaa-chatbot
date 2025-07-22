@@ -64,12 +64,16 @@ isaa-chatbot/
 
 ```bash
 cd backend
-python app.py 
+python app.py
+```
+### ▶️ 2. Run Ollama 
+bash
 ollama run llama3
 
+### ▶️ 3. Start Frontend
+
+```bash
 cd frontend
 npm install
 npm start
 
-
-Then open: http://localhost:3000
